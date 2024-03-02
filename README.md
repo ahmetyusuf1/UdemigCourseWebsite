@@ -4,4 +4,18 @@
 
 <h2>Project Content</h2>
 
+<ul>
+  <li>Home Page</li>
+  <li>About Page</li>
+  <li>Contact Page</li>
+  <li>Courses Page</li>
+</ul>
+
+<h2>Used Technologies</h2>
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
+
 <img src="./img/udemigcourse.gif"/>
