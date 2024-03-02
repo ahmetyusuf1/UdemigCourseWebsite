@@ -1,27 +1,7 @@
 <h1>Udemig Course Project</h1>
 
-<h2>Content</h2>
+<p>This project is an educational website developed using modern web technologies. It offers various trainings to users.</p>
 
-<ul>
-
-<li>Home Page</li>
-<li>About Us</li>
-<li>Contact</li>
-<li>Courses</li>
-
-</ul>
-
-<h2>Used Technologies</h2>
-
-<ul>
-
-<li>HTML</li>
-<li>HTML5</li>
-<li>CSS</li>
-<li>CSS3</li>
-
-</ul>
-
-<h1>Screen Gif</h1>
+<h2>Project Content</h2>
 
 <img src="./img/udemigcourse.gif"/>
