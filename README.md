@@ -16,6 +16,9 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
+  <li>Font Awesome</li>
 </ul>
+
+<h1>Screen Gif</h1>
 
 <img src="./img/udemigcourse.gif"/>
